@@ -4,3 +4,5 @@
 # Day 1 -- 29th March, 2024
 
 -- starting with Python 100 Days bootcamp
+- completed Day 1 
+- project 1 - Band name generator
