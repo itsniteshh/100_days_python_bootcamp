@@ -6,3 +6,8 @@
 -- starting with Python 100 Days bootcamp
 - completed Day 1 
 - project 1 - Band name generator
+
+# Day 2 -- 30th March, 2024
+
+-- completed Day 2
+- Project 2 - bill split calculator, Body Mass Index and weeks in life left
