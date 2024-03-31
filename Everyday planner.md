@@ -13,3 +13,7 @@
 - Project 2 - bill split calculator, Body Mass Index and weeks in life left.
 
 # Day 3 -- 31st March, 2024
+-- Completed Day 3
+- Project 3 -- Love calc and leap year 
+
+
