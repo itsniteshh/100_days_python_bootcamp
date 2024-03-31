@@ -10,4 +10,6 @@
 # Day 2 -- 30th March, 2024
 
 -- completed Day 2
-- Project 2 - bill split calculator, Body Mass Index and weeks in life left
+- Project 2 - bill split calculator, Body Mass Index and weeks in life left.
+
+# Day 3 -- 31st March, 2024
