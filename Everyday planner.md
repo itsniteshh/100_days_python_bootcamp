@@ -16,4 +16,6 @@
 -- Completed Day 3
 - Project 3 -- Love calc and leap year 
 
-
+# Day 4 -- 1st April, 24
+-- Completed Day 4
+-- Project 4 -- Rock paper and scissors game and treasure map
