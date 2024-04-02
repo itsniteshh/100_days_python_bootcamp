@@ -1,4 +1,5 @@
 #program to generate password containing mix of letters, numbers and symbols
+
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 
            's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 
            'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
@@ -13,18 +14,17 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 
 
 import random
-passw = ""
-lett = random.choices(letters, k =nr_letters)
+password = ""
+lett = random.choices(letters, k = nr_letters)
 for l in lett:
-    passw += l
+    password += l
     
 sym = random.choices(numbers, k = nr_symbols)
 for s in sym:
-    passw += s
+    password += s
 
 num = random.choices(symbols, k = nr_numbers)
 for n in num:
-    passw += n
+    password += n    
     
-    
-print(passw)
+print(password)
