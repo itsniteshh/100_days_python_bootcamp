@@ -3,7 +3,7 @@
 
 # Day 1 -- 29th March, 2024
 
--- starting with Python 100 Days bootcamp
+- starting with Python 100 Days bootcamp
 - completed Day 1 
 - project 1 - Band name generator
 
@@ -19,3 +19,6 @@
 # Day 4 -- 1st April, 24
 -- Completed Day 4
 -- Project 4 -- Rock paper and scissors game and treasure map
+
+# Day 5 -- 2nd April, 24
+
