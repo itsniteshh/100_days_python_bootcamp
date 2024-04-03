@@ -21,3 +21,7 @@
 # Day 5 -- 2nd April, 24
 - Completed Day 5
 -- Project 5 -- Password generator, fizz buzz, even number sum
+
+# Day 6 -- 3rd April, 
+
+--
