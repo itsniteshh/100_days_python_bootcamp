@@ -22,6 +22,10 @@
 - Completed Day 5
 -- Project 5 -- Password generator, fizz buzz, even number sum
 
-# Day 6 -- 3rd April, 
+# Day 6 -- 3rd April, 24
+- Completed Day 6
+-- Project - Robot maze
+- Also halfway though Python book
 
---
+
+# Day 7 -- 4th April, 24
