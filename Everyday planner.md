@@ -27,5 +27,13 @@
 -- Project - Robot maze
 - Also halfway though Python book
 
-
 # Day 7 -- 4th April, 24
+-- Project -- Hangman 
+
+# Day 8 -- 5th 
+
+
+
+
+
+
