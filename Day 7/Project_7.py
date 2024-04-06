@@ -1,6 +1,3 @@
-#Step 4
-
-import random
 
 stages = ['''
   +---+
@@ -59,6 +56,7 @@ stages = ['''
 =========
 ''']
 
+import random
 end_of_game = False
 word_list = ["ardvark", "baboon", "camel"]
 chosen_word = random.choice(word_list)
@@ -93,12 +91,6 @@ while not end_of_game:
     if guess not in chosen_word:
         lives = lives - 1
     
-    if guess in chosen_word:
-        print(f"{guess} already present")
-        lives -= 1
-        
-        
-
     #Join all the elements in the list and turn it into a String.
     print(f"{' '.join(display)}")
 
