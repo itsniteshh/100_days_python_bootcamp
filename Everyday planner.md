@@ -37,6 +37,7 @@
 - Project 9 - secret auction program
 
 # Day 10 -- 7th April, 24
+- Project 10 - Calculator program 
 
-
-
+# Day 11 - 8th April, 24
+- Project 11 - 
