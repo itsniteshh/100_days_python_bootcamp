@@ -1,49 +1,53 @@
-#from art import logo
 
-#print(logo)
+import random
 
+############### Blackjack Project #####################
 
-def add(n1, n2):
-    total = num1 + num2
-    return total
-
-def subtract(n1, n2):
-    total = num1 - num2
-    return total
-
-def multiply(n1, n2):
-    total = num1 * num2
-    return total
-
-def division(n1, n2):
-    total = num1 / num2
-    return total
-
+cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10] #11 is the ace
 end_of_game = True
-num1 = int(input("Enter number: "))
+choosen_cards = []
 
+def choosing_cards():
+    """randomly choosing cards """
+    first_guess = random.choices(cards, k = 2)
+    return first_guess
 
+def second_card():
+    """choosing second card"""
+    other_guess = random.choice(cards)
+    return other_guess
+
+def first_user(choosed):
+    user_guess = choosing_cards()
+    user_total = 0
+    for nums in user_guess:
+        user_total += nums
+        
+    return user_guess, user_total
+
+def first_com(choosed):
+    com_total = 0
+    com_guess = choosing_cards()
+    for nums in com_guess:
+        com_total += nums
+    
+    return com_guess, com_total
+
+    
 while end_of_game:
-    num2 = int(input("Enter another number: "))
-    operator = input("pick an operation:\n+\n-\n*\n/\n")
     
-    if operator == "+":
-        total = add(num1, num2)
-    elif operator == "-":
-        total = subtract(num1, num2)
-    elif operator == "*":
-        total = multiply(num1, num2)
-    elif operator == "/":
-        total = division(num1, num2)
-    else:
-        print("Wrong input")
+    another_card = input("Do you want to play a game of Blackjack: ").lower()
     
-    print(f"The total is {total}")
-    
-    
-    another_game = input("Type no to quit: ").lower()
-    
-    if another_game == "yes":
-        num1 = total
-    else:
+    if another_card == "no":
         end_of_game = False
+    else:
+        first_user(choosing_cards)
+        first_com(choosing_cards)
+    
+    
+    
+            
+    
+
+    
+    
