@@ -1,46 +1,54 @@
-
 import random
 
-############### Blackjack Project #####################
+#print(logo)
+print("Welcome to the Number Guessing Game!")
 
-cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10] #11 is the ace
+guessed_number = random.randint(1, 100)
+print(f"The guessed number is: {guessed_number}")
+
 end_of_game = True
-choosen_cards = []
+lives = 0
 
-def choosing_cards():
-    """randomly choosing cards """
-    first_guess = random.choices(cards, k = 2)
-    return first_guess
+difficulty = input("Easy or Hard: ").lower() #level type
 
-def second_card():
-    """choosing second card"""
-    other_guess = random.choice(cards)
-    return other_guess
+def level_choose(diff):
+    """to set the difficulty level"""
+    if difficulty == "easy":
+        lives = 10
+    else:
+        lives = 5
+    
+    return lives
+total_lives = level_choose(difficulty) #assigning total lives to a var
 
-def first_user(choosed):
-    user_guess = choosing_cards()
-    user_total = 0
-    for nums in user_guess:
-        user_total += nums
+
+'''def logicals(user_num, guessed_num, tl):
+    """to check the logicals"""
+    if user_guess == guessed_number:
+        print(f"You got it! The answer was {guessed_number}")
+    elif user_guess > guessed_number:
+        print(f"Guess too low")
+    else:
+        print(f"Guess too high")'''
         
-    return user_guess, user_total
-
-def first_com(choosed):
-    com_total = 0
-    com_guess = choosing_cards()
-    for nums in com_guess:
-        com_total += nums
-    
-    return com_guess, com_total
-
-    
+                
 while end_of_game:
     
-    another_card = input("Do you want to play a game of Blackjack: ").lower()
+    user_guess = int(input("Make a guess: "))
     
-    if another_card == "no":
+    if user_guess == guessed_number:
+        print(f"You got it! The answer was {guessed_number}")
+        end_of_game = False
+        
+    elif user_guess < guessed_number:
+        print(f"Guess too low")
+        total_lives -= 1
+    else:
+        print(f"Guess too high")
+        total_lives -= 1
+        
+        
+    if total_lives <= 1:
         end_of_game = False
     else:
-        first_user(choosing_cards)
-        first_com(choosing_cards)
-    
+        pass
