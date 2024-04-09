@@ -44,10 +44,3 @@ while end_of_game:
         first_user(choosing_cards)
         first_com(choosing_cards)
     
-    
-    
-            
-    
-
-    
-    

@@ -41,3 +41,6 @@
 
 # Day 11 - 8th April, 24
 - Project 11 - Black Jack capstone project - still in complete, trying to understand logicals
+
+# Day 12 - 9th April, 24
+- 
