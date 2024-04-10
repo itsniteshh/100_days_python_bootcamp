@@ -46,4 +46,5 @@
 - Project 12 - Number guess program
 
 # Day 13 - 10th April, 24
+- Debugging exercises
 - Project 13 - 
