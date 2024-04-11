@@ -26,6 +26,14 @@ def getting_data_b():
     
     return name_b, follower_count_b, description_b, country_b
 
+def check_answers(guess, a_followers, b_followers):
+    if a_followers > b_followers:
+        if guess == "A":
+            return True
+        else:
+            return F
+        
+
 end_of_game = True
 score = 0
 
@@ -43,9 +51,7 @@ while end_of_game:
     print(compare_b)
     
     followers = input("Who has more followers? Type 'A' or 'B': ").upper()
-    
-    
-
+    quit = input("Type 'YES' to quit: ").upper()
     
     
     if user_follower_a > user_follower_b:
