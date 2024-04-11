@@ -47,4 +47,7 @@
 
 # Day 13 - 10th April, 24
 - Debugging exercises
-- Project 13 - 
+- Project 13 - no projects here, just the exercises
+
+# Day 14 - 11th April, 24
+- Project 14 - higher lower program
