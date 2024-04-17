@@ -57,3 +57,9 @@
 
 # Day 16 - 13th April, 24
 - Project 16 - Coffee Machine OOP - Incomplete because I didn't understand the concept
+
+# Day 17 - 14th April - was sick of fever
+# Day 17 - 15th April
+# Day 17 - 16th April
+
+# Day 17 - 17th April' 24
