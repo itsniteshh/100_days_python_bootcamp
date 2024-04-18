@@ -64,3 +64,6 @@
 
 # Day 17 - 17th April' 24
 - Project 17 -- MCQ quiz game - Partially understood
+
+# Day 18 - 18th April' 24
+- Project 18 - 
