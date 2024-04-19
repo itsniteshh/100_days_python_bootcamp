@@ -67,3 +67,6 @@
 
 # Day 18 - 18th April' 24
 - Project 18 - Couldn't complete because Turtle shows circular import error.... will learn Class instead today
+
+# Day 19 - 19th April
+- Project 19 - Turtle error again... will complete python for everybody book
