@@ -66,4 +66,4 @@
 - Project 17 -- MCQ quiz game - Partially understood
 
 # Day 18 - 18th April' 24
-- Project 18 - 
+- Project 18 - Couldn't complete because Turtle shows circular import error.... will learn Class instead today
