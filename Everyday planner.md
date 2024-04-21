@@ -70,3 +70,5 @@
 
 # Day 19 - 19th April
 - Project 19 - Turtle error again... will complete python for everybody book
+
+# Day 20 - 20th April
