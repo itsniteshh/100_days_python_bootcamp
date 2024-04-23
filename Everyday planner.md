@@ -72,4 +72,7 @@
 - Project 19 - Turtle error again... will complete python for everybody book
 
 # Day 20 & 21 - 22nd April
-Project 20 & 21 - Snake Program
+- Project 20 & 21 - Snake Program
+
+# DAY 22nd - 23rd April
+- The Python bootcamp was little placed fast, will complete the Harvard's Pythoon CS Certification from YT first 
