@@ -76,3 +76,6 @@
 
 # DAY 22nd - 23rd April
 - The Python bootcamp was little placed fast, will complete the Harvard's Pythoon CS Certification from YT first 
+
+# Day 22nd - 26th April
+- Completing Harvard's Course
