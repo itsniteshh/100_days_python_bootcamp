@@ -79,3 +79,6 @@
 
 # Day 22nd - 26th April
 - Completing Harvard's Course
+
+# Day 22nd - 29th April 
+- Completing Harvard's course
