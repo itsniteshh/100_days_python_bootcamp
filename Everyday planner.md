@@ -75,10 +75,15 @@
 - Project 20 & 21 - Snake Program
 
 # DAY 22nd - 23rd April
-- The Python bootcamp was little placed fast, will complete the Harvard's Pythoon CS Certification from YT first 
+- The Python bootcamp was little placed fast, will complete the Harvard's Pythoon CS Certification fro
+
+m YT first 
 
 # Day 22nd - 26th April
 - Completing Harvard's Course
 
 # Day 22nd - 29th April 
 - Completing Harvard's course
+
+# Day 22nd - 30th April
+- Completing Harvard's course - learing about modules and packages
