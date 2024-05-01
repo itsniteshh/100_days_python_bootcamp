@@ -87,3 +87,6 @@ m YT first
 
 # Day 22nd - 30th April
 - Completing Harvard's course - learing about modules and packages
+
+# Day 22nd - 1st May, 24
+- Completinh Harvard's Course
