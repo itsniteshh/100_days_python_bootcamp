@@ -89,4 +89,8 @@ m YT first
 - Completing Harvard's course - learing about modules and packages
 
 # Day 22nd - 1st May, 24
-- Completinh Harvard's Course
+- Completing Harvard's Course
+
+
+# Day 1 - 13th May' 24
+- Completing Variable basics from intro to python
