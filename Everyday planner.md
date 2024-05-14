@@ -94,3 +94,6 @@ m YT first
 
 # Day 1 - 13th May' 24
 - Completing Variable basics from intro to python
+
+# Day 2 - 14th May' 24
+
