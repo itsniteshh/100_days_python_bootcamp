@@ -95,5 +95,7 @@ ________________________________________________________________________________
 # Day 1 - 18th May' 24
 - Completing Variable basics from intro to python
 
+# Day 2 - 19th May' 24
+- completed chapter 3 of List from Python crash course book
 
 
