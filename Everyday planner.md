@@ -98,4 +98,6 @@ ________________________________________________________________________________
 # Day 2 - 19th May' 24
 - completed chapter 3 of List from Python crash course book
 
+# Day 3 - 20th May' 24
+- Completed 9 excercises from Working with List chapter
 
