@@ -101,3 +101,6 @@ ________________________________________________________________________________
 # Day 3 - 20th May' 24
 - Completed 9 excercises from Working with List chapter
 
+# Day 4 - 21st May' 24
+- Completed 
+
