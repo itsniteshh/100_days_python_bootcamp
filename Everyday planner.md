@@ -104,3 +104,9 @@ ________________________________________________________________________________
 # Day 4 - 21st May' 24
 - Completed Chpater 4 named working with list and tuples
 
+# Day 5 - 22nd May
+- Completed chapter 5 excercised named condtionals (pretty basic so skipped few)
+
+# Day 6 - 23rd May
+- Completed Chapter 6 exercises about dictionaries (2 exercise is pending tbh)
+
