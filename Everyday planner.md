@@ -116,4 +116,6 @@ ________________________________________________________________________________
 # Day 8 - 25th May
 - Completed 4 exercises from Inputs and While loop
 
+# Day 9 - 26th May
+- Completed the remaining exercises from Inputs and while loop program
 
