@@ -110,3 +110,10 @@ ________________________________________________________________________________
 # Day 6 - 23rd May
 - Completed Chapter 6 exercises about dictionaries (2 exercise is pending tbh)
 
+# Day 7 - 24th May
+- Completed all the remaining exercises from dictionaries
+
+# Day 8 - 25th May
+- Completed 4 exercises from Inputs and While loop
+
+
