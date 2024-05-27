@@ -119,3 +119,6 @@ ________________________________________________________________________________
 # Day 9 - 26th May
 - Completed the remaining exercises from Inputs and while loop program
 
+# Day 10 - 27th May
+- Completed 5 exercises from Chapter about functions
+
