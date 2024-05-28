@@ -122,3 +122,5 @@ ________________________________________________________________________________
 # Day 10 - 27th May
 - Completed 5 exercises from Chapter about functions
 
+# Day 11 - 28th May
+- Completed 6 exercises from Functions chapter
