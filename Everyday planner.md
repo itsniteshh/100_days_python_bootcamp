@@ -124,3 +124,7 @@ ________________________________________________________________________________
 
 # Day 11 - 28th May
 - Completed 6 exercises from Functions chapter
+
+# Day 12 - 29th May
+- Completed Function chapter
+- will start with classes 
