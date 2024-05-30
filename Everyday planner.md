@@ -128,3 +128,7 @@ ________________________________________________________________________________
 # Day 12 - 29th May
 - Completed Function chapter
 - will start with classes 
+
+# Day 13 - 30th May
+- Completed 3 exercises from Class chapter
+- not going fast because CLASS is little difficult to understand
