@@ -132,3 +132,7 @@ ________________________________________________________________________________
 # Day 13 - 30th May
 - Completed 3 exercises from Class chapter
 - not going fast because CLASS is little difficult to understand
+
+# Day 14 - 31st May
+- Completed 2 exercises froom Class
+- will learn about Inheritance now
