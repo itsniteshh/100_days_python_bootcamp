@@ -136,3 +136,6 @@ ________________________________________________________________________________
 # Day 14 - 31st May
 - Completed 2 exercises froom Class
 - will learn about Inheritance now
+
+# Day 15 - 1st June
+- Completed Class chapter
