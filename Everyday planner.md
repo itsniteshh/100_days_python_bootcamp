@@ -139,3 +139,7 @@ ________________________________________________________________________________
 
 # Day 15 - 1st June
 - Completed Class chapter
+
+# Day 15 - 2nd June
+- little break needed
+- also, the files and exceptions exercises are not running properly 
