@@ -143,3 +143,7 @@ ________________________________________________________________________________
 # Day 15 - 2nd June
 - little break needed
 - also, the files and exceptions exercises are not running properly 
+
+# Day 16 - 3rd June
+- completed only 1 exercise but learnt json
+- will complete chapter 10 tomorrow

@@ -1,5 +1,3 @@
-filename = 'pi.txt'
-
-with open(filename) as file:
-    for line in file:
-        print(line)
+with open("pi.txt") as file_object:
+    content = file_object.read()
+print(content)
