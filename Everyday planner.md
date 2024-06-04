@@ -147,3 +147,6 @@ ________________________________________________________________________________
 # Day 16 - 3rd June
 - completed only 1 exercise but learnt json
 - will complete chapter 10 tomorrow
+
+# Day 17 - 4th June
+- Starting with Data Visualization
