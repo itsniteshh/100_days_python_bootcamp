@@ -150,3 +150,7 @@ ________________________________________________________________________________
 
 # Day 17 - 4th June
 - Starting with Data Visualization
+
+
+# Day 18 - 5th June
+- Will continue with Data Visualization and Jupyter bootcamp
