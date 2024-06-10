@@ -157,3 +157,6 @@ ________________________________________________________________________________
 # Day 18 - 6th June
 - Started with jupyter 
 
+# Day 19 - 10th June
+- Solved 3 exercises from python bootcamp on fucntions
+
