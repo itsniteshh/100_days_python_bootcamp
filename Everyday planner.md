@@ -160,3 +160,10 @@ ________________________________________________________________________________
 # Day 19 - 10th June
 - Solved 3 exercises from python bootcamp on fucntions
 
+_____________________________________________________________________
+
+# Day 1 - 27th June
+- completed Function warmup challenge 
+
+# Day 2 - 29th June
+- Completed 4-5 puzzles from challenger 1 and 2 exercise
