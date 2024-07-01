@@ -167,3 +167,6 @@ _____________________________________________________________________
 
 # Day 2 - 29th June
 - Completed 4-5 puzzles from challenger 1 and 2 exercise
+
+# Day 3 - 1st July
+- Completed 1 puzzle which i was unable to solve through tutorials
