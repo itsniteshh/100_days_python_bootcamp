@@ -162,6 +162,8 @@ ________________________________________________________________________________
 
 _____________________________________________________________________
 
-# Day 1 - 6th Aug
+# Day 1 - 5th Aug
 -- Completed Day 1 of 100 day python bootcamp by Dr. Angela Yu
-- 
+
+# Day 2 - 6th Aug
+-- Completed Day 2 of the challenge
