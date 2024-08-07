@@ -170,3 +170,4 @@ _____________________________________________________________________
 
 # Day 3 - 7th Aug
 -- Completing python data analyst crash course by free code camp
+-- Completed Day 3 of challenge
