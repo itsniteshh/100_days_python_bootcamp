@@ -171,3 +171,6 @@ _____________________________________________________________________
 # Day 3 - 7th Aug
 -- Completing python data analyst crash course by free code camp
 -- Completed Day 3 of challenge
+
+# Day 4 - 8th Aug 
+- Completed Day 4 of challenge, Built rock, paper, scissors program
