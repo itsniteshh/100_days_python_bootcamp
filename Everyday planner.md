@@ -174,3 +174,6 @@ _____________________________________________________________________
 
 # Day 4 - 8th Aug 
 - Completed Day 4 of challenge, Built rock, paper, scissors program
+
+# Day 5 - 9th Aug
+-- Completed Day 5 of challenge
