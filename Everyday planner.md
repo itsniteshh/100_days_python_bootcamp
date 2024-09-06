@@ -177,3 +177,9 @@ _____________________________________________________________________
 
 # Day 5 - 9th Aug
 -- Completed Day 5 of challenge
+_________________________________________________________________________________
+
+# Day 1 - 6th Sept
+-- Bought Jose Python zero to hero bootcamp
+--  Learnt about int, float and string data types 
+
