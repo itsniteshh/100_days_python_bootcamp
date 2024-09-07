@@ -183,3 +183,6 @@ ________________________________________________________________________________
 -- Bought Jose Python zero to hero bootcamp
 --  Learnt about int, float and string data types 
 
+# Day 2 - 7th Sept 
+- Learnt more about string and list data types
+
