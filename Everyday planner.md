@@ -186,3 +186,6 @@ ________________________________________________________________________________
 # Day 2 - 7th Sept 
 - Learnt more about string and list data types
 
+# Day 3 - 9th sept
+- Learnt about dictionaries and tuples
+
