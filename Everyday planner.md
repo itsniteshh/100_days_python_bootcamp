@@ -189,3 +189,6 @@ ________________________________________________________________________________
 # Day 3 - 9th sept
 - Learnt about dictionaries and tuples
 
+# Day 4 - 10th sept
+- learnt about working with file
+
