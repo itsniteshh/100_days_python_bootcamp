@@ -196,3 +196,6 @@ ________________________________________________________________________________
 
 # Day 1 - 4th Nov' 24
 - Learning about Basic data types
+
+# Day 2- 5th Nov
+- working with File I/O (Input/Output)
