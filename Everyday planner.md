@@ -1,8 +1,9 @@
 # 2024-python-and data science challenge
 #started this challenge again and again on 23rd Nov' 2024
 
-# Day 1 -- 23rd Nov, 2024
+# Day 1 -- 24TH Nov, 2024
 - Started Python 100 Days bootcamp again by Dr. Angela Yu
 - completed Day 1 
+- Learnt about command line prompts like cd and dir
 - project 1 - Band name generator
 
