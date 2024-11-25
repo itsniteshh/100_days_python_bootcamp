@@ -7,3 +7,5 @@
 - Learnt about command line prompts like cd and dir
 - project 1 - Band name generator
 
+# Day 2 -- 25th Nov, 2024
+- Completed day 2 of challenge
