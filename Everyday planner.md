@@ -9,3 +9,5 @@
 
 # Day 2 -- 25th Nov, 2024
 - Completed day 2 of challenge
+- Project 2 - Tip Calculator
+- Learnt about integers, strigs, booleans and float data types
