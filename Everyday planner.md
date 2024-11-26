@@ -11,3 +11,8 @@
 - Completed day 2 of challenge
 - Project 2 - Tip Calculator
 - Learnt about integers, strigs, booleans and float data types
+
+# Day 3 -- 26th Nov
+- Completed Day 3 of challenge
+- Project 3 - Treasure Island game
+- Learnt about logical conditions and more on data types
