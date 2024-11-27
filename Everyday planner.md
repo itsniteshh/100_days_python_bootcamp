@@ -16,3 +16,8 @@
 - Completed Day 3 of challenge
 - Project 3 - Treasure Island game
 - Learnt about logical conditions and more on data types
+
+# Day 4 -- 27th Nov
+- Completed Day 4
+- Project 4 - Rock, paper and scissors
+ 
