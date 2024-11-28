@@ -20,4 +20,9 @@
 # Day 4 -- 27th Nov
 - Completed Day 4
 - Project 4 - Rock, paper and scissors
+
+# Day 5 -- 28th Nov
+- Learnt about loops
+- Completed day 5
+
  
