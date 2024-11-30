@@ -24,5 +24,10 @@
 # Day 5 -- 28th Nov
 - Learnt about loops
 - Completed day 5
+- Built Password generator program
 
- 
+ # Day 6 -- 29th Nov
+ - 
+
+ # Day 7 -- 30th Nov
+ - 
