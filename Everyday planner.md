@@ -27,10 +27,14 @@
 - Built Password generator program
 
  # Day 6 -- 29th Nov
- - 
+ - Learnt about while loops
+ - Completed all 4 maze robot challenge with while loop 
+ - Project 6 - Reeborg's final Maze challenge 
 
  # Day 7 -- 30th Nov
  - 
 
  # Day 8 -- 1st Dec
  - 
+ 
+ # Day 9 -- 2nd Dec
