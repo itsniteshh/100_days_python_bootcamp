@@ -12,7 +12,7 @@ with open("demo.txt", mode= "a") as myfile:
     myfile.write("\nN")
      
     
-
+"""
 with open("demo.txt", mode= "r") as myfile:
     f = myfile.readlines()
     print(f)  
@@ -23,3 +23,5 @@ with open("demo.txt", mode= "w") as myfile:
 with open("demo.txt", mode= "r") as myfile:
     n = myfile.readlines()
     print(n)
+
+"""

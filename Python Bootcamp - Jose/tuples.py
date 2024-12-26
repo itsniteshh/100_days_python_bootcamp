@@ -5,3 +5,5 @@ print(type(name))
 
 print(name.count("Nitesh"))
 print(name.index("jha"))
+
+mytup = tuple("Nitesh")

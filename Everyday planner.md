@@ -3,3 +3,7 @@
 
 # Day 1 -- 25th Dec, 2024
 - Completed lessons and exercises about strings and integers
+
+# Day 2 -- 26th Dec
+- Completed remaining lessons and exercises on lists, tuples, dict, sets, booleans and files I/O from module 1
+- Completed # Objects and Data Structures Assessment Test (Module 1)
