@@ -7,3 +7,6 @@
 # Day 2 -- 26th Dec
 - Completed remaining lessons and exercises on lists, tuples, dict, sets, booleans and files I/O from module 1
 - Completed # Objects and Data Structures Assessment Test (Module 1)
+
+# Day 3 -- 27th Dec
+- Learnt about comparison operators and python statements
