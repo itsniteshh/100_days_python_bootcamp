@@ -14,3 +14,7 @@
 # Day 4 -- 28th Dec
 - Completed operators and statements module
 - Completed #statements Test (Module 2)
+
+# Day 5 -- 29th Dec
+-- Learnt about functions 
+-- Did revision of first 4 days
