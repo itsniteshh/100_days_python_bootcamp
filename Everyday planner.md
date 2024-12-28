@@ -10,3 +10,7 @@
 
 # Day 3 -- 27th Dec
 - Learnt about comparison operators and python statements
+
+# Day 4 -- 28th Dec
+- Completed operators and statements module
+- Completed #statements Test (Module 2)
