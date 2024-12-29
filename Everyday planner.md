@@ -16,5 +16,5 @@
 - Completed #statements Test (Module 2)
 
 # Day 5 -- 29th Dec
--- Learnt about functions 
+-- Learnt about functions - will complete the exercises tomorrow
 -- Did revision of first 4 days
