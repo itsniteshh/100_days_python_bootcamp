@@ -18,3 +18,6 @@
 # Day 5 -- 29th Dec
 -- Learnt about functions - will complete the exercises tomorrow
 -- Did revision of first 4 days
+
+# Day 7 -- 30th Dec
+--
