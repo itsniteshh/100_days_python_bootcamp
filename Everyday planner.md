@@ -20,4 +20,8 @@
 -- Did revision of first 4 days
 
 # Day 7 -- 30th Dec
---
+-- Completed functions basics
+-- Started with function exercises
+
+# Day 8 -- 31st Dec
+-- 
