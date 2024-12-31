@@ -24,4 +24,5 @@
 -- Started with function exercises
 
 # Day 8 -- 31st Dec
--- 
+-- Learnt about *args and **kwargs
+- Completed all 13 function exercises

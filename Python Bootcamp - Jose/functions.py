@@ -14,7 +14,7 @@ def even_check(num_list):
     
 print(even_check([1,2,3, 4, 6]))
 '''
-
+"""
 work_hours = [('Abby', 1000), ('Billy', 400), ('Cassie', 800)]
 
 def employee_check(work_hours):
@@ -32,3 +32,31 @@ def employee_check(work_hours):
 
 best_emp = employee_check(work_hours)
 print(best_emp)
+""" 
+"""
+def myfunction(**kwargs):
+    print(kwargs)
+    
+myfunction(fruit = "apple", veggie = "flower", name = "Nitesh")
+""" 
+
+""""
+Function to change case on even and odd position
+
+def myfunc(string): 
+    final_output = ""
+    
+    for index, letter  in enumerate(string):
+        if index % 2 == 0:
+            final_output += letter.upper()
+            
+        else:
+            final_output += letter.lower()
+            
+      
+    return final_output
+
+print(myfunc("Anthropomorphism"))
+"""
+
+
