@@ -101,15 +101,12 @@ def black_jack(a, b, c):
     if total_sum <= 21:
         return total_sum
     
-    elif (total_sum > 21) or (a == 11 or b == 11 or c == 11):
+    elif (total_sum > 21) and (a == 11 or b == 11 or c == 11):
         total_sum -= 10
-        if total_sum > 21:
-            return "BUST"
-        else:
-            return total_sum
     
+    if total_sum > 21:
+        return "BUST"
     else:
         return total_sum
-
     
-print(black_jack(9, 9, 9))
+print(black_jack(9, 9, 11))
