@@ -29,4 +29,7 @@
 -- Completed warmup function assesment
 
 # Day 8 -- 1st Jan
--- Completed Level 1 programs
+-- Completed Level 1 assesment
+
+# Day 9 -- 2nd Jan
+-- working on Level 2 assesment

@@ -3,16 +3,10 @@
 def lesser_of_two_evens(a, b):
     """print lesser of the two numbers based on even or odd"""    
     if (a % 2 == 0) and (b % 2 == 0):
-        if a > b:
-            return b
-        else:
-            return a
+        return min (a, b)
     
     else:
-        if a > b:
-            return a
-        else:
-            return b
+        return max (a, b)
         
 print(lesser_of_two_evens(11, 21))
 
@@ -28,10 +22,7 @@ print(animal_crackers("n n"))
 
 def makes_twenty(n1, n2):
     """given two int, return true if sum is 20 or if one of the int is 20. Else True"""
-    if n1 == 20 or n2 == 20:
-        return True
-    elif n1 + n2 == 20:
-        return True
+    return n1 == 20 or n2 == 20 or n1 + n2 == 20
     
 print(makes_twenty(10, 10))
 
@@ -74,7 +65,51 @@ def almost_there(n):
     return lowest <= 10 #checking if the above conidtion value is less than 10
         
 print(almost_there(209))
-'''
+
 
 # Level 2 programs
 
+def find_33(nums):
+    """Given an araay, find if there exists a 3 next to a 3"""
+    
+    for num in range(len(nums)-1):
+        if nums[num] == nums[num + 1]:
+            return True 
+    else:
+        return False
+            
+print(find_33([1, 3, 32, 3]))
+
+
+def paper_doll(text):
+    """given a string, return a string where for every char in original there are 3 char"""
+    split_word = []
+    
+    for words in text:
+        words *= 3
+        split_word.append(words)
+    
+    return "".join(split_word)
+        
+print(paper_doll("Mississippi"))
+'''
+
+def black_jack(a, b, c):
+    """given 3 integers between 1 and 11, if their sum is less than or equal to 21, returns their sum. If their sum exceeds 21 and there's an eleven, reduce the total sum by 10. Finally, if the sum(even after adjustment) exceeds 21, return 'BUST'"""
+    total_sum = (a+b+c)
+    
+    if total_sum <= 21:
+        return total_sum
+    
+    elif (total_sum > 21) or (a == 11 or b == 11 or c == 11):
+        total_sum -= 10
+        if total_sum > 21:
+            return "BUST"
+        else:
+            return total_sum
+    
+    else:
+        return total_sum
+
+    
+print(black_jack(9, 9, 9))
