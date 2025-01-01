@@ -25,4 +25,8 @@
 
 # Day 8 -- 31st Dec
 -- Learnt about *args and **kwargs
-- Completed all 13 function exercises
+-- Completed all 13 function exercises
+-- Completed warmup function assesment
+
+# Day 9 -- 1st Jan
+-- Working on Level 1 programs
