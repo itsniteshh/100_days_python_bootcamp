@@ -1,4 +1,4 @@
-
+# Warm-up problems
 '''
 def lesser_of_two_evens(a, b):
     """print lesser of the two numbers based on even or odd"""    
@@ -35,7 +35,7 @@ def makes_twenty(n1, n2):
     
 print(makes_twenty(10, 10))
 
-
+# Level 1 PROBLEMS
 def old_macdonald(name):
     """capitalize first and fourth letter of a name"""
     new_name = ""
@@ -61,5 +61,20 @@ def master_yoda(text):
     return final
 
 print(master_yoda("I am Nitesh"))
+
+
+def almost_there(n):
+    """given an integer n, return True if n is within 10 of either 100 or 200"""
+    lowest = 0
+    if n > 100: # checking to see if n is greater than 100, if yes - We % by 100 to get lowest remainder
+        lowest = n % 100
+    else: # if n is less than 100, we subtract it from 100 directly
+        lowest = 100 - n
+        
+    return lowest <= 10 #checking if the above conidtion value is less than 10
+        
+print(almost_there(209))
 '''
+
+# Level 2 programs
 

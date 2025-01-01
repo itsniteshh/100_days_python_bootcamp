@@ -19,14 +19,14 @@
 -- Learnt about functions - will complete the exercises tomorrow
 -- Did revision of first 4 days
 
-# Day 7 -- 30th Dec
+# Day 6 -- 30th Dec
 -- Completed functions basics
 -- Started with function exercises
 
-# Day 8 -- 31st Dec
+# Day 7 -- 31st Dec
 -- Learnt about *args and **kwargs
 -- Completed all 13 function exercises
 -- Completed warmup function assesment
 
-# Day 9 -- 1st Jan
--- Working on Level 1 programs
+# Day 8 -- 1st Jan
+-- Completed Level 1 programs
