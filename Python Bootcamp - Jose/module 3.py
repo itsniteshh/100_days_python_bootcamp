@@ -92,7 +92,7 @@ def paper_doll(text):
     return "".join(split_word)
         
 print(paper_doll("Mississippi"))
-'''
+
 
 def black_jack(a, b, c):
     """given 3 integers between 1 and 11, if their sum is less than or equal to 21, returns their sum. If their sum exceeds 21 and there's an eleven, reduce the total sum by 10. Finally, if the sum(even after adjustment) exceeds 21, return 'BUST'"""
@@ -110,3 +110,11 @@ def black_jack(a, b, c):
         return total_sum
     
 print(black_jack(9, 9, 11))
+'''
+
+def summer_69(arr):
+    """return the sum of numbers in the array, except ignore sections of numbers starting with a 6 and extending to the next 9 (every 6 will be followed by at least one 9). Return 0 if no numbers"""
+    
+    if
+    
+print(summer_69([1, 3, 5]))
