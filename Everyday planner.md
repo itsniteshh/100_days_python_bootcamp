@@ -34,3 +34,5 @@
 # Day 9 -- 2nd Jan
 -- Completed Level 2 assesment
 -- Working on final challenging assesment
+
+# Day 10 -- 3rd Jan
