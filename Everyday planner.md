@@ -36,3 +36,7 @@
 -- Working on final challenging assesment
 
 # Day 10 -- 3rd Jan
+-- only completed 1 exercise from Level 2
+
+# Day 11 - 4th Jan
+-- 
