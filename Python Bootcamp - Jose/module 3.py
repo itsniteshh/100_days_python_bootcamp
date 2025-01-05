@@ -110,11 +110,88 @@ def black_jack(a, b, c):
         return total_sum
     
 print(black_jack(9, 9, 11))
-'''
+
 
 def summer_69(arr):
     """return the sum of numbers in the array, except ignore sections of numbers starting with a 6 and extending to the next 9 (every 6 will be followed by at least one 9). Return 0 if no numbers"""
+    total = 0
+    add = True
     
-    if
+    for num in arr:
+        while add:
+            if num != 6:
+                total += num
+                break
+            else:
+                add = False
+        
+        while not add:
+            if num != 9:
+                break
+            else:
+                add = False
+                break
+    return total
+        
+print(summer_69([4, 5, 6, 7, 8, 9]))
+
+
+# Challenging problems
+
+def spy_game(nums):
+    """takes in a list of integers and returns True if it contains 007 in order"""
+    final = []
     
-print(summer_69([1, 3, 5]))
+    for num in nums:
+        if num == 0:
+            final.append(num)
+        elif num == 7:
+            final.append(num)
+        else:
+            pass
+
+print(spy_game([1, 2, 4, 0, 0, 7, 5]))
+
+def count_prime(num):
+    """returns the number of prime numbers that exist up to and including the given number"""
+    count = 0
+    
+    for num in range(100):
+        if num == 0 or num == 1:
+            pass
+        elif num % num == 0 and num % 1 == 0:
+            pass
+        else:
+            count += 1
+    return count
+        
+
+print(count_prime(100))
+'''
+
+letters = {
+    "a": " *  
+          * *
+         *****
+         *   *
+         *   *",
+         
+    "b": "******
+          *    *
+          ******
+          *    *
+          *****",
+    "c": "******
+          *
+          *
+          ******",
+    "d": "*******
+          *     *
+          *     *
+          *******",
+        
+}
+
+def print_big(letter):
+    
+    

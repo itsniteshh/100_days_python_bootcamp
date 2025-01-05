@@ -39,4 +39,7 @@
 -- only completed 1 exercise from Level 2
 
 # Day 11 - 4th Jan
+-- Completed Level 2 assesment 
+
+# Day 12 - 5th Jan
 -- 
