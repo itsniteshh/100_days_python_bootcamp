@@ -43,3 +43,6 @@
 
 # Day 12 - 5th Jan
 -- Completed function module
+
+# Day 13 - 6th Jan
+-- started working on Milestone project 1

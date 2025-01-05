@@ -6,7 +6,6 @@ def vol(rad):
     
     volume = 4/3 * (pi * (rad**3))
     return volume
-
 print(vol(2))
 
 
@@ -18,8 +17,6 @@ def ran_check(num, low, high):
             final_num = num
     
     return final_num == num
-    
-    
 print(ran_check(8, 2, 7))
     
 
@@ -53,28 +50,27 @@ def unique_list(lst):
     return final_list
 print(unique_list([1, 1, 1, 1, 2, 2, 3, 3, 4, 4, 2, 2, 5]))
 
+
 def multiply(nums):
     """a function to multiply numbers"""
     total = 1
     
-    for n in nums:
-        
+    for n in nums: 
         total *= n
         
     return total
 print(multiply([1, 2, 3, -4]))
 
+
 def palindrome(s):
     """a palindrome is a word, phrase, or sequence that reads the same backward as forward."""
     new_word = s.replace(" ", "")
     return new_word[::-1]
-
 print(palindrome("helleh helleh"))
-'''
+
+
 import string
-
 alphabets = string.ascii_lowercase
-
 def is_pangram(text, alphabets):
     """a function to check whether a string is pangram or not. Pangram are words or sentences containing every letter of the alphabet atleast once"""
     final_alpha = []
@@ -83,9 +79,10 @@ def is_pangram(text, alphabets):
         if i in final_alpha:
             pass
         else:
-            final_alpha += i
-    
+            final_alpha += i 
     final_alpha.sort()
     return "".join(final_alpha) == alphabets
 
+
 print(is_pangram("The quick brown fox jumps over the lazy dog", alphabets))
+'''
