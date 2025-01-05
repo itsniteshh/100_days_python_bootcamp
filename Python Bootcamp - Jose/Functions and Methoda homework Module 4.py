@@ -75,7 +75,7 @@ import string
 
 alphabets = string.ascii_lowercase
 
-def is_pangram(text):
+def is_pangram(text, alphabets):
     """a function to check whether a string is pangram or not. Pangram are words or sentences containing every letter of the alphabet atleast once"""
     final_alpha = []
     
@@ -86,6 +86,6 @@ def is_pangram(text):
             final_alpha += i
     
     final_alpha.sort()
-    return final_alpha
+    return "".join(final_alpha) == alphabets
 
-print(is_pangram("The quick brown fox jumps over the lazy dog"))
+print(is_pangram("The quick brown fox jumps over the lazy dog", alphabets))
